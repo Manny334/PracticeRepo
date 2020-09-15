@@ -6,6 +6,10 @@ This is an extra sentence
 I Must do good job 
 
 
+<<<<<<< HEAD
 This is my commit from another laptop 
 
+=======
+Waiting for the commit from another laptop 
+>>>>>>> 4f25d41ed2e18cedea34505815ead4e61a40b9af
 
