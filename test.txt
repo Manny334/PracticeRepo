@@ -13,3 +13,4 @@ This is my commit from another laptop
 Waiting for the commit from another laptop 
 >>>>>>> 4f25d41ed2e18cedea34505815ead4e61a40b9af
 
+i think the dell has to pull the changes i will make 
